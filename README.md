@@ -13,7 +13,7 @@ applications backed by real production data.
 
 **Data Engineering:** Python · PySpark · Apache Spark · Apache Kafka · Apache Iceberg · Apache Airflow · Hive Metastore · Docker · Microsoft Azure
 **GenAI / Agentic AI:** LangChain · Ollama · ChromaDB · RAG · Prompt Engineering · Anti-Hallucination Guardrails
-**Databases:** SQL (advanced) · PostgreSQL · MongoDB · Azure SQL Database · ChromaDB
+**Databases:** SQL · Azure SQL Database · ChromaDB
 
 #### Certifications
 
