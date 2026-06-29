@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Faisal 👋
 
-<!--
-**faisalhaq02/faisalhaq02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Master of Applied Computing graduate (Wilfrid Laurier University, April 2026)
+based in Toronto, Canada. I build at the intersection of **modern data engineering**
+and **agentic AI** — lakehouse architectures, streaming pipelines, and LLM-grounded
+applications backed by real production data.
 
-Here are some ideas to get you started:
+#### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 **[Real-Time Banking Transaction Intelligence Platform](https://github.com/faisalhaq02/Real-Time-Banking-Transaction-Intelligence-Platform-Using-Streaming-and-Lakehouse-Architecture)** — 16-month Master's capstone. Apache Kafka + Spark + Iceberg lakehouse on Azure, with a LangChain + Ollama agentic AI layer. Co-built with Darshil K Shah.
+
+#### Tech I work with
+
+**Data Engineering:** Python · PySpark · Apache Spark · Apache Kafka · Apache Iceberg · Apache Airflow · Hive Metastore · Docker · Microsoft Azure
+**GenAI / Agentic AI:** LangChain · Ollama · ChromaDB · RAG · Prompt Engineering · Anti-Hallucination Guardrails
+**Databases:** SQL (advanced) · PostgreSQL · MongoDB · Azure SQL Database · ChromaDB
+
+#### Certifications
+
+🟢 **Microsoft Azure Fundamentals (AZ-900)** — completed
+🟢 **Big Data Computing(IIT Kanpur)** — completed
+🟡 **DP-700 Microsoft Fabric Data Engineer Associate** — in progress
+
+
+#### Currently
+
+Open to **Data Engineering, GenAI, and ML Engineering** roles in Canada. Particularly
+interested in roles where modern lakehouse architecture, agentic AI, and production
+data systems intersect.
+
+📫 Reach me: faisalhaq1202@gmail.com · [LinkedIn](https://linkedin.com/in/faye02)
