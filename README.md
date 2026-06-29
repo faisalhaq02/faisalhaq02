@@ -7,7 +7,7 @@ applications backed by real production data.
 
 #### What I'm working on
 
-- 🏦 **[Real-Time Banking Transaction Intelligence Platform](https://github.com/faisalhaq02/Real-Time-Banking-Transaction-Intelligence-Platform-Using-Streaming-and-Lakehouse-Architecture)** — 16-month Master's capstone. Apache Kafka + Spark + Iceberg lakehouse on Azure, with a LangChain + Ollama agentic AI layer. Co-built with Darshil K Shah.
+- 🏦 **[Real-Time Banking Transaction Intelligence Platform](https://github.com/faisalhaq02/Real-Time-Banking-Transaction-Intelligence-Platform-Using-Streaming-and-Lakehouse-Architecture)** — 4-month Master's capstone. Apache Kafka + Spark + Iceberg lakehouse on Azure, with a LangChain + Ollama agentic AI layer. Co-built with Darshil K Shah.
 
 #### Tech I work with
 
